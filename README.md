@@ -1,7 +1,3 @@
-# poutapilvi/Propel #
-
-Forked for P4
-
 # Propel #
 
 Propel is an open-source Object-Relational Mapping (ORM) for PHP5.
